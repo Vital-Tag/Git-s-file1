@@ -1,0 +1,36 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+/*让body标签占满整个浏览器窗口*/
+html{
+    width:100%;
+    height:100%;
+}
+.box1{
+    width: 150px;
+    height: 700px;
+    color: white;
+    font-size: 40px;
+    font-weight: bold;
+    text-indent: 55px;
+    padding: 20px;
+    background: cornflowerblue;
+    position: absolute;
+    float: left;
+}
+.box2{
+    margin-left: 200px;
+}
+.box3{
+    font-size: 30px;
+    font-weight: bolder;
+    margin-top: 20px;
+}
+.box4{
+    margin-top: 20px;
+
+}
+ul>li {
+    list-style-type: none;
+}
